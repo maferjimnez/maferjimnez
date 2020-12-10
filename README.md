@@ -7,22 +7,23 @@ I'm a very simple person who enjoys coding, I'm most comfortable in that weird, 
 
 :computer: **Stacks:**
 
--HTML.
--CSS.
+-HTML. <br></br>
+-CSS. <br></br>
 -Javascript Vanilla.
 
 
 
 :nut_and_bolt: **Technologies i have used:**
 
--Git.
--Github.
+-Git.<br></br>
+-Github. <br></br>
 -Sass (SCSS).
 
 
 :pencil2: **I'm currently learning:**
 
 -ReactJS.
+
 
 :musical_note: **Fun fact:** I'm a music enthusiast and i do **_a lot_** of playlists on spotify.
 
