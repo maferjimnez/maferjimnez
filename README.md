@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there, I'm Mafer ! :elephant:
+## Front-End Developer Trainee.
 
-<!--
-**maferjimnez/maferjimnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A very simple person who enjoys coding, I'm most comfortable in that weird, funky world between design and development.
 
-Here are some ideas to get you started:
+:computer: **Stacks:**
+-HTML.
+-CSS.
+-Javascript Vanilla.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:nut_and_bolt: **Technologies i have used:**
+-Git.
+-Github.
+-Sass (SCSS).
+
+:pencil2: **I'm currently learning:**
+-ReactJS.
+
+
+:musical_note: **Fun fact:** I'm a music enthusiast and i do **_a lot_** of playlists on spotify.
+
+📫 **How to reach me:**
+[Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fernanda-jim%C3%A9nez-8a33871b6/)
