@@ -16,7 +16,6 @@ A very simple person who enjoys coding, I'm most comfortable in that weird, funk
 :pencil2: **I'm currently learning:**
 -ReactJS.
 
-
 :musical_note: **Fun fact:** I'm a music enthusiast and i do **_a lot_** of playlists on spotify.
 
 📫 **How to reach me:**
