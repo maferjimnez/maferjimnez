@@ -1,5 +1,5 @@
 # Hello there, I'm Mafer ! :elephant:
-## Front-End Developer Trainee.
+## Front-End Developer.
 
 I'm a very simple person who enjoys coding, I'm most comfortable in that weird, funky world between design and development.
 
