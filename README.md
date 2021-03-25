@@ -9,10 +9,11 @@ I'm a very simple person who enjoys coding, I'm most comfortable in that weird, 
 
 -HTML. </br>
 -CSS.</br>
--Javascript Vanilla.</br>
--ReactJS.
+-Sass (scss) </br>
+-Javascript.</br>
+-React JS.
 <br></br>
 
 
-How to reach me:
-[Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fernanda-jim%C3%A9nez-8a33871b6/)
+:dart: ***Find me here:***
+<img src="https://i.postimg.cc/1tWpxw42/LI-In-Bug.png" width=20> [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fernanda-jim%C3%A9nez-8a33871b6/)
