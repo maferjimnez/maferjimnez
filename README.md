@@ -16,4 +16,5 @@ I'm a very simple person who enjoys coding, I'm most comfortable in that weird, 
 
 
 :dart: ***Find me here:***
+<br></br>
 <img src="https://i.postimg.cc/1tWpxw42/LI-In-Bug.png" width=20> [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fernanda-jim%C3%A9nez-8a33871b6/)
