@@ -9,23 +9,11 @@ I'm a very simple person who enjoys coding, I'm most comfortable in that weird, 
 
 -HTML. <br></br>
 -CSS. <br></br>
--Javascript Vanilla.
-
-<br></br>
-:nut_and_bolt: **Technologies i have used:**
-
--Git.<br></br>
--Github. <br></br>
--Sass (SCSS).
-
-<br></br>
-:pencil2: **I'm currently learning:**
-
+-Javascript Vanilla.<br></br>
 -ReactJS.
 <br></br>
+
 :musical_note: **Fun fact:** I'm a music enthusiast and i do **_a lot_** of playlists on spotify.
 
-<br></br>
-📫 **How to reach me:**
 
 [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fernanda-jim%C3%A9nez-8a33871b6/)
