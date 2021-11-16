@@ -5,15 +5,16 @@ I'm a simple person who enjoys coding
 
 :computer: **Stacks:**
 
--HTML. </br>
--CSS.</br>
+-HTML </br>
+-CSS</br>
 -Sass (scss) </br>
--Javascript.</br>
--React JS.
+-Javascript</br>
+-React JS
+-Vue JS
+-Bootstrap
 <br></br>
-
-**[:scroll: CHECK OUT MY PORTFOLIO](https://maferjimnez.github.io/mafers-portfolio/) 
-
+:scroll: **Check out my pretty portfolio:
+[:shipit: Mafer Jiménez](https://maferjimnez.github.io/mafers-portfolio/) 
 <br></br>
 :dart: ***Find me here:***
 <br></br>
