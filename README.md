@@ -1,9 +1,9 @@
 # Hello there, I'm Mafer ! :elephant:
 ## Front-End Developer.
 
-I'm a very simple person who enjoys coding, I'm most comfortable in that weird, funky world between design and development.
+I'm a simple person who enjoys coding
 
-
+## [:scroll: CHECK OUT MY PORTFOLIO](https://maferjimnez.github.io/mafers-portfolio/) 
 
 :computer: **Stacks:**
 
@@ -13,7 +13,6 @@ I'm a very simple person who enjoys coding, I'm most comfortable in that weird, 
 -Javascript.</br>
 -React JS.
 <br></br>
-
 
 :dart: ***Find me here:***
 <br></br>
