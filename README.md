@@ -13,7 +13,8 @@ I'm a simple person who enjoys coding
 -Vue JS
 -Bootstrap
 <br></br>
-:scroll: **Check out my pretty portfolio:
+:scroll: **Check out my pretty portfolio:**
+<br></br>
 [:shipit: Mafer Jiménez](https://maferjimnez.github.io/mafers-portfolio/) 
 <br></br>
 :dart: ***Find me here:***
