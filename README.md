@@ -9,9 +9,9 @@ I'm a simple person who enjoys coding
 -CSS</br>
 -Sass (scss) </br>
 -Javascript</br>
--React JS
--Vue JS
--Bootstrap
+-React JS </br>
+-Vue JS </br>
+-Bootstrap</br>
 <br></br>
 :scroll: **Check out my pretty portfolio:**
 <br></br>
