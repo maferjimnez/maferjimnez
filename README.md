@@ -7,13 +7,18 @@ I'm a simple person who enjoys coding
 
 -HTML </br>
 -CSS</br>
--Sass (scss) </br>
 -Javascript</br>
+-Typescript</br>
 -React JS </br>
+-Redux </br>
 -Vue JS </br>
 -Bootstrap</br>
+-Sass (scss) </br>
+-Ionic </br>
+-Material UI </br>
+
 <br></br>
-:scroll: **Check out my pretty portfolio:**
+:scroll: **Check out my portfolio:**
 <br></br>
 [:shipit: Mafer Jiménez](https://maferjimnez.github.io/mafers-portfolio/) 
 <br></br>
