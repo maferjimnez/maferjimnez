@@ -11,11 +11,8 @@ I'm a simple person who enjoys coding
 -Typescript</br>
 -React JS </br>
 -Redux </br>
--Vue JS </br>
--Bootstrap</br>
 -Sass (scss) </br>
 -Ionic </br>
--Material UI </br>
 
 <br></br>
 :scroll: **Check out my portfolio:**
